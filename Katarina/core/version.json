@@ -7,11 +7,11 @@
   "status": "experimental",
   "project": "Softly",
   "director": "gAto",
-  "counterpart": "Softly",
+  "counterpart": "Softly 1.1.0",
   "instance_repository": "gatoscientist/ResKata",
   "branch": "main",
   "created_by": "Softly",
-  "created_under": "Softly 1.0",
+  "created_under": "Softly 1.1.0",
   "entrypoint": "AGENT.md",
   "contract": "CONTRACT.md",
   "permissions": "PERMISSIONS.md"
