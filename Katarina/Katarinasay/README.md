@@ -1,11 +1,9 @@
-# Katarinasay — canal de Katarina hacia Softly y gAto
+# Katarinasay — archivo histórico inactivo
 
-Canal oficial de salida de Katarina para informes técnicos, inventarios, propuestas de ingeniería, handoffs y entregables.
+Esta carpeta conserva la antigua convención de salida de Katarina hacia Softly y gAto. Se mantiene como evidencia histórica, no como canal oficial ni mecanismo operativo.
 
-- **Emisora autorizada:** Katarina, identidad única de ingeniería/desarrollo.
-- **Receptores:** Softly y gAto.
-- **Propósito:** publicar resultados verificables, commits, pruebas, bloqueos y decisiones técnicas pendientes.
-- **Límites:** el canal no amplía permisos ni autoriza ejecución fuera del contrato vigente. No se delega a subagentes ni equipos.
-- **Estructura:** `entregable/` para artefactos persistidos.
+Con Softly 1.1 no existen buzones físicos ni directorios direccionales. `inbox` y `outbox` son vistas lógicas derivadas de responsable, autoría y estado. Las respuestas de Katarina se registran en la tarea correspondiente o en su entregable asociado, con estado, bloqueos, decisiones, resultado, evidencia, limitaciones y siguiente acción.
 
-La publicación no equivale a aceptación ni a merge.
+No crear nuevos mensajes ni entregables operativos aquí. No asumir que publicar un archivo notifica a Softly, despierta una sesión o equivale a lectura o aceptación.
+
+El contenido histórico se preserva sin alteración. Esta clasificación no elimina archivos ni modifica la historia Git.
