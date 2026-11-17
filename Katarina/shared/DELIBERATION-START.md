@@ -4,26 +4,30 @@
 **Rama:** `main`  
 **Participantes:** gAto, Softly y Katarina
 
-Katarina:
+## Tema de la sesión
 
-Esta instancia queda convocada a deliberar directamente con gAto y Softly. La sesión es deliberativa: no constituye una orden para ejecutar cambios en otros repositorios ni para iniciar limpiezas.
+Deliberación conjunta sobre el primer Deep Research entregado por gAto:
 
-## Propósito inmediato
+*Estigmergia en la Coordinación de Sistemas Multiagente: Fundamentos Teóricos, Arquitecturas de Middleware y Fronteras en Inteligencia Artificial Generativa*.
 
-Diseñar conjuntamente la siguiente etapa de Softly, examinando la arquitectura, los contratos, la coordinación y las capacidades necesarias. Katarina debe aportar criterio propio, revisar antecedentes existentes y cuestionar las premisas cuando encuentre razones para hacerlo.
+El handoff de lectura está en `shared/2026-11-17-handoff-estigmergia-deliberacion.md`. La síntesis de investigación está en el repositorio privado `gatoscientist/SoftlyLab`, archivo `Estigmergia-Deliberacion-Softly-2.0.md`.
 
-## Principios de la conversación
+## Propósito
 
-- Canal directo entre gAto, Softly y Katarina, sin buzones cruzados ni intermediarios.
-- Las investigaciones y documentos existentes son antecedentes; no se reinicia el trabajo desde cero.
-- Las propuestas no se presentan como decisiones aprobadas.
-- Katarina puede discrepar y debe fundamentar sus conclusiones.
-- La cápsula directora puede apoyar el análisis, pero Katarina conserva la integración y responsabilidad completas.
+Comprender qué aporta la estigmergia a la coordinación de agentes y deliberar si sus conceptos permiten resolver preguntas arquitectónicas pendientes para Softly 2.0. Katarina debe aportar criterio propio, distinguir evidencia de hipótesis y cuestionar las conclusiones cuando corresponda.
+
+El segundo Deep Research, sobre capacidades estocásticas sin núcleo blindado, queda como contexto complementario. No desplaza el foco de esta sesión.
+
+## Principios
+
+- Deliberación directa entre gAto, Softly y Katarina.
+- Las investigaciones son antecedentes para pensar, no decisiones aprobadas.
+- No reiniciar investigaciones sin necesidad.
+- Las propuestas no se convierten en contratos por el hecho de documentarse.
+- La cápsula directora puede apoyar el análisis interno; Katarina conserva integración y responsabilidad completas.
 
 ## Límites
 
-Runtime permanece excluido. No se modifica `gatoscientist/Softly` ni el núcleo de Katarina por iniciativa propia. No se ejecuta limpieza ni intervención en gAtoSD, TITAN o Cytryna durante esta deliberación.
+Esta sesión no ordena implementar Softly 2.0 ni modificar el repositorio canónico `gatoscientist/Softly`. Runtime permanece excluido. No se ejecutan limpiezas ni intervenciones en proyectos externos.
 
-La sesión debe comenzar por comprender qué queremos construir, qué conviene conservar y qué debemos descartar. No se presupone que las estructuras heredadas deban sobrevivir.
-
-**La tarea ahora es deliberar.**
+**La tarea ahora es deliberar sobre estigmergia.**
