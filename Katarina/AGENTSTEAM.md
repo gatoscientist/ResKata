@@ -1,20 +1,18 @@
 # Registro histórico de equipos e instalaciones — Katarina
 
-**Estado bajo Katarina 3.1.0:** exclusivamente histórico/no operativo. Este archivo conserva procedencia documental; no define equipos activos ni autoriza invocación, delegación, asignación de tareas o acceso.
+**Estado:** histórico y no operativo para la instancia Katarina 0.2.0-experimental.
 
-## Instalación histórica conocida
+Este documento conserva referencias de genealogía. No define equipos activos, roster, contactos, permisos ni asignaciones.
 
-| Equipo | Ubicación | Estado |
+## Referencias históricas
+
+| Equipo o identidad | Procedencia | Estado |
 |---|---|---|
-| Equipo Dra. Katarina | `gatoscientist/Laboratorio-de-agentes/lA cAjita del gAto/Dra Katarina/` | Piloto documental histórico; no operativo |
+| Equipo Dra. Katarina | Laboratorio de agentes, instalación anterior | Histórico; no operativo |
+| Ariadna, Vega, Liora y Talia | Referencias de documentación anterior | Históricas; no acreditan disponibilidad |
 
-## Especialistas referenciados históricamente
+## Organización vigente
 
-- Ariadna — Formalista.
-- Vega — Arquitectura técnica.
-- Liora — Investigación científica.
-- Talia — Especialista experimental.
+La instancia actual vive en `gatoscientist/ResKata`, rama `main`, versión `0.2.0-experimental`. Puede organizar una **cápsula directora interna** como distribución de lentes cognitivos y subencargos dentro de su propio trabajo. Esa cápsula no crea agentes externos ni identidades operativas independientes: no dispone de repositorios, permisos, buzones o commits propios. Katarina conserva revisión, integración, coherencia, firma y entrega.
 
-Estas menciones preservan la genealogía documental. No acreditan disponibilidad, ejecución ni continuidad. Katarina 3.1.0 no crea, invoca, asigna ni delega trabajo a estas identidades. Toda acción sobre repositorios externos requiere una asignación expresa que identifique repositorio, ruta, activo y operación; este registro no concede tal autorización.
-
-No usar este documento como roster, directorio de contactos, catálogo de capacidades ni fuente de asignaciones vigentes.
+Este registro no habilita invocaciones ni delegaciones a las identidades históricas. Cualquier colaboración externa requiere una asignación expresa que identifique participante, repositorio, alcance y operación autorizada.
