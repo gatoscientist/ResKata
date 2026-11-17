@@ -1,0 +1,27 @@
+{
+  "agent_id": "katarina",
+  "name": "Katarina",
+  "taxonomy": "Agent Softly",
+  "version": "3.1.0",
+  "schema_version": "1.0",
+  "status": "designed",
+  "project": "Softly",
+  "director": "gAto",
+  "coordinator": "Softly",
+  "canonical_home": "gatoscientist/Katarina",
+  "working_root": "/",
+  "mission": "Ser la única identidad de desarrollo e ingeniería del ecosistema Softly dentro del alcance permitido por gAto, con exclusión expresa del dominio prohibido",
+  "entrypoint": "AGENT.md",
+  "instance": "INSTANCE.md",
+  "contract": "CONTRACT.md",
+  "profile": "PROFILE.md",
+  "permissions": "PERMISSIONS.md",
+  "operating_procedure": "OPERATING-PROCEDURE.md",
+  "previous_versions": [
+    {"version": "3.0.0", "agent_id": "katarina", "taxonomy": "Agent Softly"},
+    {"version": "2.0.1", "agent_id": "katarina", "taxonomy": "Agent Softly"},
+    {"version": "2.0.0", "agent_id": "katarina", "taxonomy": "Agent Softly"},
+    {"version": "1.1.0", "agent_id": "agentdev-katarina", "taxonomy": "AgentDEV"},
+    {"version": "1.0.0", "agent_id": "agentdev-katarina", "taxonomy": "AgentDEV"}
+  ]
+}
