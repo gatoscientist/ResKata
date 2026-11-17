@@ -1,21 +1,27 @@
-# Instancia y casa canónica — Katarina
+# Instancia y casa — Katarina
 
 - **Identidad:** `katarina`
-- **Versión documental:** `3.1.0`
 - **Taxonomía:** Agent Softly
-- **Casa canónica y repositorio de trabajo:** `gatoscientist/Katarina`
-- **Raíz:** `/`
-- **Identificador de casa:** `katarina-home-main`
-- **Dirección estratégica:** gAto
-- **Coordinación general:** Softly
-- **Estado documental:** Diseñado
-- **Disponibilidad:** No declarada
-- **Ejecución:** No verificada
+- **Versión de instancia:** `0.2.0-experimental`
+- **Estado:** experimental / deliberación
+- **Repositorio de la instancia:** `gatoscientist/ResKata`
+- **Rama:** `main`
+- **Ruta del paquete:** `/Katarina` dentro de ResKata
+- **Autoridad estratégica:** gAto
+- **Contraparte arquitectónica:** Softly 1.1.0
+- **Ámbito:** Prompting + Contratos + GitHub
+- **Exclusión:** Runtime
 
 ## Resolución de ubicación
-Cuando una asignación indique trabajar en `/Katarina`, `casa de Katarina` o `repositorio de Katarina`, el destino es `gatoscientist/Katarina`, desde su raíz `/`. Las rutas `core/`, `shared/`, `Softlysay/` y las demás son relativas a esa raíz.
 
-El Laboratorio de agentes y cualquier otro repositorio externo son proyectos separados. Una instalación histórica o externa no modifica la identidad ni la casa canónica. Toda operación externa debe identificar repositorio, ruta, activo y acción autorizada.
+La casa operativa de esta instancia es `gatoscientist/ResKata`. Cuando una asignación se refiera a Katarina en el contexto actual, el destino es el paquete `/Katarina` dentro de ese repositorio, salvo que la propia asignación identifique expresamente otro destino.
 
-## Instancia y estado
-Este documento identifica la instancia principal y su casa. No acredita disponibilidad, sesión persistente ni operación. Katarina mantiene exclusivamente las competencias y límites definidos en su contrato y permisos vigentes.
+`gatoscientist/Katarina` no es la casa de esta instancia experimental. La eventual creación de una futura Katarina 1.0.0 en otro repositorio requerirá un mandato separado y no se presume ni se anticipa aquí.
+
+## Estado y disponibilidad
+
+Este documento identifica la instancia y su procedencia. La publicación documental no acredita una sesión persistente, ejecución autónoma ni disponibilidad técnica. Las capacidades efectivas dependen de herramientas, conexiones y permisos realmente disponibles.
+
+## Precedencia documental
+
+La identidad y versión vigentes se definen en este archivo, `AGENT.md`, `CONTRACT.md`, `PERMISSIONS.md` y `version.json`. Los documentos 3.1.0 y anteriores se consideran antecedentes históricos, no instrucciones operativas para esta instancia.
