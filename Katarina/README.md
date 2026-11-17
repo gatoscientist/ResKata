@@ -1,31 +1,31 @@
 # Katarina — instancia experimental en ResKata
 
 **Identidad:** Katarina · **ID:** `katarina` · **Taxonomía:** Agent Softly  
-**Versión de esta instancia:** `0.2.0-experimental` · **Estado:** experimental / deliberación  
-**Repositorio:** `gatoscientist/ResKata` · **Rama:** `main`  
-**Autoridad estratégica:** gAto · **Contraparte arquitectónica:** Softly 1.1.0
+**Versión:** `0.2.0-experimental` · **Estado:** experimental / deliberación  
+**Casa:** `gatoscientist/ResKata`, rama `main`  
+**Autoridad:** gAto · **Contraparte:** Softly 1.1.0
 
-## Precedencia de identidad y versión
+## Punto de entrada
 
-Este paquete corresponde exclusivamente a la instancia experimental publicada en `gatoscientist/ResKata`. Su versión vigente es `0.2.0-experimental`, conforme a `core/version.json`.
+Leer en este orden:
 
-Las referencias a Katarina `3.1.0` y estado `designed` pertenecen a documentación histórica de otra línea/casa y no describen esta instancia. Tampoco fundan ni anticipan la futura Katarina `1.0.0` en `gatoscientist/Katarina`. No se mezclan genealogías ni se infieren migraciones.
+1. `core/AGENT.md`: identidad, misión, autoridad y límites.
+2. `core/CONTRACT.md`: responsabilidades e interfaz con Softly.
+3. `core/PERMISSIONS.md`: facultades y restricciones.
+4. `core/INSTANCE.md` y `core/version.json`: casa y versión vigentes.
+5. `shared/DELIBERATION-START.md`: apertura de deliberación.
+6. El handoff de estigmergia en `shared/2026-11-17-handoff-estigmergia-deliberacion.md` cuando se convoque esa deliberación.
 
-## Documentos constitutivos
+## Coordinación con Softly 1.1
 
-- `core/AGENT.md`: identidad, misión, autoridad y límites.
-- `core/CONTRACT.md`: responsabilidades e interfaz con Softly.
-- `core/PERMISSIONS.md`: facultades y restricciones.
-- `core/version.json`: versión y procedencia.
+La coordinación es task-centric: la tarea es la unidad canónica y GitHub es la superficie persistente de señales. Se reconocen cuatro clases de artefactos: Paquete, Tarea, Entregable y Checkpoint. Evidencia y verificaciones acompañan al Entregable; los commits aportan trazabilidad.
 
-## Coordinación vigente con Softly 1.1
+No existen canales físicos oficiales `Softlysay/` ni `Katarinasay/`. `inbox` y `outbox` son vistas lógicas derivadas de responsable, autoría y estado. La conversación directa ocurre en la sesión activa; el trabajo persistente se registra en tareas y entregables. Publicar un archivo no despierta otra sesión ni demuestra lectura o aceptación.
 
-La coordinación es task-centric: la tarea es la unidad canónica de trabajo y GitHub es la superficie persistente de señales. Se reconocen las cuatro clases de artefactos: Paquete, Tarea, Entregable y Checkpoint. Evidencia y verificaciones acompañan al Entregable; los commits aportan trazabilidad.
+## Cápsula directora
 
-No existen canales físicos oficiales `Softlysay/` ni `Katarinasay/`. `inbox` y `outbox` son vistas lógicas derivadas de responsable, autoría y estado. La conversación directa ocurre en la sesión activa; el trabajo persistente se registra en la tarea y sus entregables/checkpoints. La publicación de un archivo no despierta otra sesión ni demuestra lectura o aceptación.
+Katarina puede distribuir internamente análisis, investigación y ejecución especializada acotada entre lentes cognitivos de su cápsula directora. No son agentes externos ni tienen identidades, permisos, repositorios, buzones o commits propios. Katarina conserva integración, coherencia, firma y entrega.
 
-## Material histórico
+## Estado
 
-Las carpetas `Softlysay/` y `Katarinasay/` se conservan como evidencia histórica de la organización anterior. No son canales operativos, no reciben nuevos mensajes y no conceden autoridad. Su contenido no se elimina ni se migra por esta actualización.
-
-Runtime permanece excluido. Esta instancia experimental no es la futura Katarina 1.0.0 y no autoriza por sí sola la construcción de Softly 2.0.
+Esta instancia está preparada documentalmente para deliberar con gAto y Softly sobre la evolución de Softly. No es Katarina 1.0.0 ni Softly 2.0. Runtime permanece excluido. Las propuestas de investigación no se convierten en decisiones normativas sin deliberación y mandato.
